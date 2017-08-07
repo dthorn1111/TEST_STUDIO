@@ -1,0 +1,233 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "8836eeff-1625-41f6-b437-4901dc9ca446",
+    "Id": "8836eeff-1625-41f6-b437-4901dc9ca446",
+    "TestListName": "WS_MESSAGES_eng-admin_1",
+    "CreationDate": "2017-06-08T15:45:27-04:00",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [
+              2
+            ],
+            "UseMultiBrowserExecution": true,
+            "RecycleBrowser": true,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 2,
+            "EnableScriptLogging": false,
+            "BaseUrl": "",
+            "KillBrowserProcessOnClose": false,
+            "AutoCalibrateBrowsers": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9047d0b7-cab3-495f-9821-60183ef62c06",
+          "Path": "WS_MESSAGE_01 (Allan County).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "1d7b2faf-00d9-4d57-9852-53ba42fc454f",
+          "Path": "WS_MESSAGE_01 (Allan County) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "0c8b5e1b-4349-4d2b-9836-2de67ae67a75",
+          "Path": "WS_MESSAGE_02 (Goodnow Public).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "47c2b884-5417-45ee-8b9b-742e0fb19617",
+          "Path": "WS_MESSAGE_02 (Goodnow Public) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "93a01094-4864-445d-9ed3-5ad3dde3ed56",
+          "Path": "WS_MESSAGE_03 (Calcasieu Parish).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a1052e18-77c6-4b58-b7c2-079bd30051a1",
+          "Path": "WS_MESSAGE_03 (Calcasieu Parish) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fb5c113a-cd38-42c6-b44f-8d7b57345812",
+          "Path": "WS_MESSAGE_04 (Boston Public).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "61913a38-bad1-4079-8488-5010def2a930",
+          "Path": "WS_MESSAGE_04 (Boston Public) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "127f3151-944b-4359-8934-954e389b5cb8",
+          "Path": "WS_MESSAGE_05 (Osceola Library).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "8b5aadb7-829f-4af3-9b69-61c55a99bbcb",
+          "Path": "WS_MESSAGE_05 (Osceola Library) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "1f19572b-c3cf-4e07-be11-9a52970af38c",
+          "Path": "WS_MESSAGE_06 (Toledo-Lucas County).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "003dbba4-6b51-4fc8-aefe-76051da031db",
+          "Path": "WS_MESSAGE_06 (Toledo-Lucas County) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "bc8a5ef2-7c19-4313-99c6-1f19ae64fe1c",
+          "Path": "WS_MESSAGE_07 (Princeton Public).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "d16240c9-e071-4ff7-8d8a-db63dec6e15a",
+          "Path": "WS_MESSAGE_08 (Pinson Public).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "08699044-76cb-4da7-adb1-a4e79a18dec1",
+          "Path": "WS_MESSAGE_08 (Pinson Public) ADMIN.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ad1a0d47-cb0a-48da-96ad-ce40c0c11ed3",
+          "Path": "WS_MESSAGE_09 (Robbins Library).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "44e500a7-7141-47a6-841d-031dfa54bba7",
+          "Path": "WS_MESSAGE_10 (Las Vegas-Clark).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "8441d30e-3067-4848-84e0-a5726df2be4d",
+          "Path": "WS_MESSAGE_11 (King County).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "bd3faefb-f93a-4c58-a617-6640ef70afd3",
+          "Path": "WS_MESSAGE_12 (Rahway Public).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "db336061-7f1f-4647-af4a-d49cc3b8d5d7",
+          "Path": "WS_MESSAGE_13 (Toledo-Lucas County).tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "e96fe7ab-c2eb-49a7-a040-1ba13db5475f"
+  }
+}
